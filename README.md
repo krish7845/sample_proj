@@ -1,1 +1,1 @@
-# sample_proj
+# Sample spring boot project
